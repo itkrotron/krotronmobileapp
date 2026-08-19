@@ -1,11 +1,12 @@
 {
-  "versionCode": 2026081915,
+  "versionCode": 2026081917,
   "versionName": "1.1.0",
-  "apkUrl": "https://raw.githubusercontent.com/itkrotron/krotronmobileapp/main/Krotron_1_1_0_20260819_15.apk",
-  "sha256": "72f23e1c30f14a2eea8e9fb0e30f98b7d050511098c5aef7cd503ae128aecef6",
+  "apkUrl": "https://raw.githubusercontent.com/itkrotron/krotronmobileapp/main/Krotron_1_1_0_20260819_17.apk",
+  "sha256": "dae9529eac4fdfb34e391b0f71880f3055b88bd60e1b4a310c9f2604ba93ec8b",
   "forceUpdate": false,
   "changelog": [
-    "รอบทดสอบการจำ \"ไว้ทีหลัง\" — กดไว้ทีหลัง แล้วอย่าอัปเดต",
-    "พรุ่งนี้เปิดแอปแล้วต้องไม่มีอะไรเด้งขึ้นมาเอง"
+    "ใบงานที่แก้ไขจากออฟฟิศ จะอัปเดตลงเครื่องแล้ว ของเดิมค้างข้อมูลเก่าไว้โดยไม่แจ้งอะไรเลย",
+    "อัปเดตแอปได้จากในแอป กดรูปคนมุมขวาบน",
+    "ตรวจไฟล์ที่โหลดมาทุกครั้งก่อนติดตั้ง ถ้าไฟล์ไม่ตรงจะไม่ติดตั้งให้"
   ]
 }
