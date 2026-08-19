@@ -1,11 +1,12 @@
 {
   "versionCode": 2026081914,
   "versionName": "1.1.0",
-  "sha256": "7951257a4ded4331d2bea230c95a35a901dcf0307ea822cf183eae483083f2e0",
   "apkUrl": "https://raw.githubusercontent.com/itkrotron/krotronmobileapp/main/Krotron_1_1_0_20260819_14.apk",
-  "forceUpdate": false,
+  "sha256": "7951257a4ded4331d2bea230c95a35a901dcf0307ea822cf183eae483083f2e9",
+  "forceUpdate": true,
   "changelog": [
-    "รอบทดสอบ: จงใจประกาศ SHA-256 ผิดหนึ่งตัวอักษร",
-    "แอปต้องปฏิเสธไฟล์นี้และไม่ติดตั้งให้"
+    "รอบทดสอบ: ตั้งเป็นอัปเดตแบบบังคับ",
+    "ปุ่ม \"ไว้ทีหลัง\" ต้องหายไป และกดปุ่มย้อนกลับต้องปิดหน้านี้ไม่ได้",
+    "แก้ข้อความตอนกดยกเลิกการติดตั้ง ไม่ให้ขึ้นว่าล้มเหลว"
   ]
 }
