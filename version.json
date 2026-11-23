@@ -1,8 +1,8 @@
 {
-  "versionCode": 2026112304,
+  "versionCode": 2026112305,
   "versionName": "1.1.0",
-  "apkUrl": "https://raw.githubusercontent.com/itkrotron/krotronmobileapp/main/Krotron_1_1_0_20261123_04.apk",
-  "sha256": "7a23fdf563fa2d389a9f65bf0d19e007dde9f5bf5d25d83e25d62f473237626c",
+  "apkUrl": "https://raw.githubusercontent.com/itkrotron/krotronmobileapp/main/Krotron_1_1_0_20261123_05.apk",
+  "sha256": "97ab669bc68ba0e9d15aff3a92351ef2a729fc571a74e50821d1eff76fc0ad22",
   "forceUpdate": false,
   "changelog": [
     "แจ้งเตือนเมื่อมีเวอร์ชันใหม่และเมื่อมีใบงานใหม่ แม้ไม่ได้เปิดแอป พร้อมตัวเลขบนไอคอน",
